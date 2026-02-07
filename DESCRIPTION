@@ -25,7 +25,7 @@ License: MIT + file LICENSE
 URL: https://somalogic.github.io/SomaDataIO/, https://somalogic.com
 BugReports: https://github.com/SomaLogic/SomaDataIO/issues
 Depends:
-    R (>= 4.1.0)
+    R (>= 4.0.2)
 Imports:
     cli,
     dplyr (>= 1.0.6),
